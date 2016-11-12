@@ -9,7 +9,7 @@ return msg;
 }
 
 public static void main(String[] args){
- Hello h = new Hello();
+ Sampleclass h = new Sampleclass();
  h.setMsg("Welcome to Jenkins World");
  System.out.println(h.getMsg());
  }
